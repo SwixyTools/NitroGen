@@ -21,7 +21,7 @@
 
 ### 🖥️ Running ALiteralNuker
 #### Using the EXE:
-1. **Download** `nitroez.exe` from [Releases](https://github.com/swixytools/serverboostgen/releases).
+1. **Download** `nitroez.exe` from [Releases](https://github.com/swixytools/nitrogen/releases).
 2. **Run** `nitroez.exe` and follow the on-screen instructions.
 
 
